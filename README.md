@@ -6,9 +6,9 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/   -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ajaysadhu)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajaysadhu)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ajsadhu)
+[![Github](https://img.shields.io/badge/-Github-000?style=social&logo=Github&logoColor=white)](https://github.com/ajaysadhu)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajaysadhu)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=social&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ajsadhu)
  <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=ajaysadhu" />
 
 <!-- Talking about you -->
