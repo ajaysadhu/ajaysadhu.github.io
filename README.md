@@ -31,19 +31,13 @@ You can use the website to generate badges: https://shields.io/   -->
   <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
  <img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
- <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-  
-  </br>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">    
+   
+   <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
-  </br>
+    
   <img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg">
  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
- 
-  
-  
 </p>
-
-
