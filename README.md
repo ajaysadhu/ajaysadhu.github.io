@@ -1,3 +1,6 @@
+
+![banner](https://raw.githubusercontent.com/ajaysadhu/ajaysadhu.github.io/main/assets/images/AjayDouble.jpg)
+
 ### Hi I'm Ajay Sadhu 👋
 
 
