@@ -45,3 +45,15 @@ You can use the website to generate badges: https://shields.io/   -->
   <img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg">
  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </p>
+
+<details>
+  <summary>Projects</summary>
+  
+  ## Siemens Mindsphere Product Lifecycle Intelligence 
+  ###                                       2015 -2021
+  Building Solutions for Manufacturing Domain Customers in Root Cause Analysis, Discovering Patterns Through Trend Analysis and Key Performance Indicators (KPIs). 
+
+  Seamless integration to IIoT through Mindsphere platform which enable industries to find insights into their supply chain and take corrective steps to improve quality, transparency and remove bottle necks.
+
+</details>
+
