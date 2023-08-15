@@ -18,17 +18,18 @@ You can use the website to generate badges: https://shields.io/   -->
 <!-- Talking about you -->
 **About me**
 
-- 🔭 I’m currently working on few Mobile friendly AI and AR projects
-- 🌱 I’m currently learning Typescript and Flutter
+- 🔭 I’m currently working on Data Science Projects.
 - 👯 I’m looking to collaborate on building apps that have social impact 🤝
 - 🤔 I’m looking for help with Front end, UX and Resonsive UI.
 - 💬 Ask me about Product Design, Application Development, Machine Learning, Data Science, Backend Development or System Design
+- ⏳ Competing on Kaggle, checkout my recent [Top 3% Kaggle Notebook](https://www.kaggle.com/code/ajaysadhu/feeding-wrong-predictions-to-training-data).
 - 📫 How to reach me: [@ajsadhu](https://twitter.com/ajsadhu)
 
 **Since 2011, Worked for**
 - Infosys as Senior Systems Engineer
 - Knowledge Lens as Technology Expert
 - Siemens as Data Scientist
+- NeonQ as Co-Founder
 
 **Languages, Tools and Platforms I use:** 
 <p>
