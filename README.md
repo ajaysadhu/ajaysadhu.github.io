@@ -44,7 +44,9 @@ You can use the website to generate badges: https://shields.io/   -->
   <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
     
   <img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg">
- <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21~bgwhite.svg">
+ <img width="10%" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21~bgwhite.svg">
+ 
 </p>
 
 <!--
