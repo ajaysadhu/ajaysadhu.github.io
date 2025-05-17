@@ -18,9 +18,9 @@ You can use the website to generate badges: https://shields.io/   -->
 <!-- Talking about you -->
 **About me**
 
-- 🔭 I’m currently working on Data Science Projects.
+- 🔭 I’m currently open to work in Big Data and Data Engineering areas
 - 👯 I’m looking to collaborate on building apps that have social impact 🤝
-- 🤔 I’m looking for help with Front end, UX and Resonsive UI.
+- :star: I'm Certified Databricks Data Engineer Associate 
 - 💬 Ask me about Product Design, Application Development, Machine Learning, Data Science, Backend Development or System Design
 - ⏳ Competing on Kaggle, checkout my recent [Top 3% Kaggle Notebook](https://www.kaggle.com/code/ajaysadhu/feeding-wrong-predictions-to-training-data).
 - 📫 How to reach me: [@ajsadhu](https://twitter.com/ajsadhu)
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/   -->
 - Infosys as Senior Systems Engineer
 - Knowledge Lens as Technology Expert
 - Siemens as Data Scientist
-- NeonQ as Co-Founder
+- NeonQ as Independent Consultant
 
 **Languages, Tools and Platforms I use:** 
 <p>
